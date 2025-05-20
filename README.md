@@ -34,6 +34,7 @@ INFO - url:https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=e4adf08
 ## 2.开机自动运行脚本
 将刚刚生成的bat脚本文件创建出一个快捷方式,win键+R,输入
 > shell:common startup
+
 ![微信截图_20250520150705](https://github.com/user-attachments/assets/25059d86-3d9b-40eb-851a-f33cb471c6b0)
 
 接着将快捷方式放入此文件夹中,即可实现开机自动运行脚本
